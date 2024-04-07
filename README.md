@@ -34,6 +34,13 @@ https://assets.epixelmlmsoftware.com/sites/default/files/software/binary-genealo
 
 At the top, there is a user who will add two people, one on the left and one on the right. Users will register by entering their user ID on the sponsor's ID field, and they will be placed under the user whose ID they entered. This process continues, with each user adding two more people under them.
 
+## Sections 📚
+✔️ REGISTRATION\
+✔️ LOGIN\
+✔️ USER DASHBOARD\
+✔️ PROFILE\ 
+✔️ MYTEAM\
+✔️ USER SPONSERS 
 
 
 
