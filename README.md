@@ -43,6 +43,8 @@ At the top, there is a user who will add two people, one on the left and one on 
 ✔️ USER SPONSERS 
 
 
+#TECH STACK- REACT , NODE ,MONGODB , HTML , CSS , JS , EXPRESS
+
 
 
 
